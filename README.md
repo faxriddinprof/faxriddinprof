@@ -3,5 +3,5 @@
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=faxriddinprof&theme=github-compact&hide_border=true&area=true" alt="Contribution Graph"/>
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=faxriddinprof&theme=github_dark" alt="GitHub Activity"/>
 </p>
